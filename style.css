@@ -39,7 +39,7 @@ form {
 }
 
 .form-group input, .form-group select {
-    padding: 10px;
+    padding: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
     width: 100%;
